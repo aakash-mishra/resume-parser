@@ -1,0 +1,38 @@
+plugins {
+    id 'java'
+    id "application"
+}
+
+jar {
+    manifest {
+        attributes(
+                'Main-Class': 'org.ucsc.ReadingText'
+        )
+    }
+}
+
+ext {
+    javaMainClass = "org.ucsc.ReadingText"
+}
+
+application {
+    mainClassName = javaMainClass
+}
+
+tasks.withType(JavaCompile) {
+    options.warnings = false
+}
+
+group 'org.ucsc'
+version '1.0-SNAPSHOT'
+sourceCompatibility = '14'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+//    implementation('org.apache.pdfbox:pdfbox:2.0.3')
+//    implementation files('libs/pdfbox-app-2.0.25.jar')
+    implementation group: 'org.apache.pdfbox', name: 'pdfbox-app', version: '2.0.25'
+}

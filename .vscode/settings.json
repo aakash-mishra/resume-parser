@@ -1,6 +1,6 @@
 {
     "java.project.referencedLibraries": [
-        "lib/**/*.jar",
-        "java/pdfbox-app-2.0.25.jar"
+        "/Library/Java/Extensions/*.jar",
+        "/Users/aakash/aakash/Winter2022/CSE210A/Project/resume-parser/java/*.jar"
     ]
 }
