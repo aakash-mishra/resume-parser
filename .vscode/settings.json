@@ -1,6 +1,0 @@
-{
-    "java.project.referencedLibraries": [
-        "/Library/Java/Extensions/*.jar",
-        "/Users/aakash/aakash/Winter2022/CSE210A/Project/resume-parser/java/*.jar"
-    ]
-}

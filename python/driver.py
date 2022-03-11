@@ -11,14 +11,8 @@ def find_intersection(text_from_pdf, skills):
     return skills_in_pdf
 
 def main():
-    # ch = 'y'
-    # while(ch == 'y'):
-        # ch = input("Enter y to continue ")
-        # if ch != 'y':
-            # break
     start_time = time.time()
-    # os.chdir('../static')
-    os.chdir('static/')
+    os.chdir('../static')
     text_file = open("skills.txt", "r")
     skills = text_file.read().split('\n')
     all_resumes = os.listdir()
@@ -27,7 +21,7 @@ def main():
             skill_list = [] #list of skills for this resume
             text_from_pdf = str(textract.process(os.getcwd() + '/' + resume))
             skill_list = find_intersection(text_from_pdf, skills)
-            # print("Skills found in this resume: " + str(skill_list))
+            # print("[Python]Skills found in the resume file " + resume + ": " + str(skill_list))
     print("[Python]Total execution time: " + str ( (time.time() - start_time)) + " seconds")
 if __name__ == "__main__":
     main()

@@ -32,7 +32,5 @@ repositories {
 }
 
 dependencies {
-//    implementation('org.apache.pdfbox:pdfbox:2.0.3')
-//    implementation files('libs/pdfbox-app-2.0.25.jar')
     implementation group: 'org.apache.pdfbox', name: 'pdfbox-app', version: '2.0.25'
 }

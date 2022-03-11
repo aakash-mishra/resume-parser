@@ -5,7 +5,6 @@
 .NET Framework
 .NET Remoting
 .Net Core
-.com
 .htaccess
 1-4 Units
 1-Wire
@@ -417,7 +416,6 @@ AMFI Certified
 AMFPHP
 AMHS
 AMI
-AML
 AMLS
 AMOS
 AMPL
@@ -1300,7 +1298,6 @@ Algebra
 Algebraic Geometry
 Algo
 Algol
-Algor
 Algorithm Analysis
 Algorithm Design
 Algorithm Development
@@ -1698,7 +1695,6 @@ Apollo
 Apollo GDS
 Apologetics
 Apoptosis
-App
 App Builder
 App Inventor
 App Store
@@ -2488,7 +2484,6 @@ Avionics
 Avionics Design
 Avionics Integration
 Avro
-Award
 Award Applications
 Award Ceremonies
 Award Entries
@@ -2799,7 +2794,6 @@ Banner Designing
 Banner Finance
 Banners
 Banquet Operations
-Bar
 Bar Design
 Bar/Bat Mitzvahs
 Barbering
@@ -4318,7 +4312,6 @@ CHPS
 CHST
 CI
 CIAS
-CIC
 CICS
 CID
 CIDNE
@@ -4532,7 +4525,6 @@ CRS-1
 CRS-Certified Residential
 CRSP
 CRTs
-CS
 CS0-001
 CS1000
 CS1K
@@ -6501,7 +6493,6 @@ Community of Practice
 CommunityViz
 Commutations
 Commuter Rail
-Comp
 CompTIA
 CompTIA Network+
 CompTIA Server+
@@ -8169,7 +8160,6 @@ CXML
 Citysearch.com
 Cloud.com
 ComScore
-D
 D&B
 D&C
 D-Command
@@ -11471,7 +11461,6 @@ Evaluation Design
 Evaluation Methodologies
 Evaluation Strategies
 Evaluation Tools
-Evaluations
 Evangelism
 Evaporation
 Evaporators
@@ -11862,9 +11851,6 @@ EWFM
 EXist
 EZ Publish
 EbXML
-Eメールマーケティング
-Eラーニング
-F
 F#
 F&A
 F&A Operations
@@ -14745,7 +14731,6 @@ HOA
 HOMER
 HOOPS
 HORECA
-HP
 HP ASE
 HP ASP
 HP Application Lifecycle Management
@@ -15860,7 +15845,6 @@ ICBS
 ICC
 ICC Color Management
 ICCP
-ICD
 ICD-10
 ICD-10-CM
 ICD-9
@@ -16656,7 +16640,6 @@ Infoman
 Infomercials
 Infor XA
 Inforem
-Inform
 Informal Education
 Informal Learning
 Informatica Administration
@@ -18307,7 +18290,6 @@ LON
 LOPA
 LOS Survey
 LOTO
-LP
 LPC
 LPCVD
 LPG
@@ -18467,7 +18449,6 @@ Language Services
 Language Teaching
 Language Technology
 Language Testing
-Languages
 Lanyon
 Lao
 Lap Steel
@@ -21291,7 +21272,6 @@ Mobilization
 Mobilizing
 Mobius
 Mocha
-Mock
 Mock Interviews
 Mockito
 Mockups
@@ -21719,7 +21699,6 @@ Multivariable Calculus
 Multivariate Analysis
 Multivariate Statistics
 Multivariate Testing
-Mumbai
 Mundo Digital
 Municipal Bonds
 Municipal Budgeting
@@ -21850,7 +21829,6 @@ MacOS
 MiRNA
 MicroCT
 MySAP
-N
 N+
 N+ Certified
 N-Able
@@ -22767,7 +22745,6 @@ NesC
 Newcattest
 Npm
 Npm, Inc.
-O
 O&G
 O&M
 O-1
@@ -22918,7 +22895,6 @@ OST
 OTA
 OTL
 OTM
-OTP
 OTRS
 OTS
 OTV
@@ -23287,7 +23263,6 @@ Op-eds
 OpTime
 Opalis
 Opamp
-Ope
 Open Access
 Open Accounts
 Open Ad Stream
@@ -24347,7 +24322,6 @@ Pantone
 Pantry
 Pants
 Panvalet
-Paper
 Paper Chromatography
 Paper Converting
 Paper Craft
@@ -26092,7 +26066,6 @@ Private Sector Development
 Private Security
 Privatization
 Privia
-Pro
 Pro 7
 Pro Bono
 Pro Forma Development
@@ -26231,7 +26204,6 @@ Process Validation
 Process Verification
 Process Writing
 Processes Development
-Processing
 Processing Equipment
 Processors
 Procmail
@@ -27270,7 +27242,6 @@ RACI
 RADIUS
 RAFT
 RAID
-RAM
 RAM Elements
 RAM Structural Systems
 RAMS
@@ -28209,7 +28180,6 @@ Requirements Workshops
 RequisitePro
 Requisition Management
 Requisitions
-Res
 Res Workspace Manager
 Res.net
 ResCheck
@@ -28903,7 +28873,6 @@ SBR
 SBRT
 SBS
 SBT
-SC
 SC Clearance
 SCA
 SCADA
@@ -28915,7 +28884,6 @@ SCBA
 SCCP
 SCCS
 SCDPM
-SCE
 SCEPTRE
 SCI Clearance
 SCIP
@@ -30145,7 +30113,6 @@ Sewer Design
 Sewercad
 Sewing
 Sexuality Education
-Sh
 Shade Structures
 Shader Creation
 Shaders
@@ -32638,7 +32605,6 @@ TADDM
 TAM
 TANF
 TAO
-TAPI
 TAR
 TAS
 TAT
@@ -32995,7 +32961,6 @@ Tcpdump
 Tcsh
 TeMIP
 TeX
-Tea
 Teacher Evaluation
 Teacher Mentoring
 Teacher Professional Development
@@ -33149,7 +33114,6 @@ Technimo
 Techniques de photographie
 Techniques de studios
 Techniques photographiques
-Techno
 Techno-Commercial
 Techno-Commercial Negotiations
 Techno-Commercial Operations
