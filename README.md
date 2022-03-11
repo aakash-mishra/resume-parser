@@ -5,6 +5,18 @@ Dependencies needed to compile the project in all three languages:
 
 To run the project, simply type `./evaluator.sh`. This will run the resume-parser on all the resumes present in the directory `./static` and will display the respective execution times. By default, we have commented the statemenet that will print all the skills present in a resume (in order to not flood system out). You can uncomment that statement in all 3 files (Driver.go, Driver.py and ReadingText.java) to see the resume-skills map.
 
+To run individual projects:
+1. Python:
+    - cd python
+    - `python3 driver.py`
+2. Go:
+    - cd go
+    - `go run Driver.go`
+3. Java:
+    - cd java-resume-parser
+    - `./gradlew clean build`
+    - `./gradlew run`
+
 
 References:
 1. Skills dataset taken from: https://www.kaggle.com/maneeshdisodia/employment-skills
